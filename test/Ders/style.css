@@ -1,0 +1,175 @@
+/*  div.kutu {
+            color: rgb(255, 255, 255);
+            background: rgb(255, 0, 0);
+            width: 200px;
+            height: 150px;
+            font: 1em sans-serif;
+            box-shadow: 5px 5px 10px rgb(34, 0, 255);
+        }
+
+        #kutu1 {
+            color: rgb(72, 0, 255);
+            background: rgb(7, 7, 7);
+            width: 200px;
+            height: 150px;
+            font: 1em sans-serif;
+            box-shadow: 5px 5px 10px rgb(184, 174, 252);
+
+        }
+
+        #kutu2 {
+            color: rgb(255, 255, 255);
+            background: rgb(255, 0, 0);
+            width: 200px;
+            height: 150px;
+            font: 1em sans-serif;
+            box-shadow: 5px 5px 10px rgb(191, 255, 0);
+
+        }
+
+ div {
+    color: rgb(255, 255, 255);
+    background: red;
+    font: 1em sans-serif;
+    box-shadow: 5px 5px 10px rgb(0, 81, 255);
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+
+
+} */
+
+
+/*<div> etiketlerinin yazı rengini beyaz, arkaplan rengini kırmızı,
+ kutu genişliğini 200px, kutu yüksekliğini 150px ,kutular arasındaki
+ boşluğu yukarıdan 10px, aşağıdan 5px soldan ve sağdan 3px olarak ayarlayın.*/
+
+/* div {
+    color: rgb(255, 255, 255);
+    background: red;
+    font: 1em sans-serif;
+    box-shadow: 5px 5px 10px rgb(0, 81, 255);
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+
+
+}
+ */
+
+/*yukarıdaki gibi biçimlendirilmiş <div> etiketinin iç boşluğunu 25px olarak ayarlayın. 
+ (İç boşluk için padding kullanılır.
+  Ayrıca box-model ilkesine göre nesne nesnenin ölçüleri verilen genişlik yada yükseklik değeri + 
+ çerçeve + iç boşluklar olarak ayarlanır.)*/
+/* div {
+    color: rgb(255, 255, 255);
+    background: red;
+    font: 1em sans-serif;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(0, 81, 255);
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 200px;
+    height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+ */
+
+
+
+/* 
+#kutu1 {
+    background-color: #bc0698;
+    color: rgb(48, 2, 166);
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    float: right;
+    align-items: center;
+    box-shadow: rgb(48, 2, 166) 5px 5px 10px;
+
+
+
+}
+
+#kutu2 {
+    background-color: rgb(48, 2, 166);
+    color: #bc0698;
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    float: left;
+    align-items: center;
+    box-shadow: #bc0698 5px 5px 10px;
+
+
+} */
+
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#kutu1 {
+    background-color: rgb(255, 6, 6);
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    float: left;
+    align-items: center;
+    box-shadow: #bc0698 5px 5px 10px;
+
+
+}
+
+#kutu2 {
+    background-color: gray;
+    width: 20%;
+    height: 50vh;
+    display: flex;
+    float: left;
+    align-items: center;
+    box-shadow: #bc0698 5px 5px 10px;
+
+
+}
+
+#kutu3 {
+    background-color: rgb(48, 2, 166);
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    float: left;
+    align-items: center;
+    box-shadow: #bc0698 5px 5px 10px;
+
+
+}
+
+#kutu4 {
+    background-color: rgb(181, 5, 181);
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    float: left;
+    align-items: center;
+    box-shadow: #bc0698 5px 5px 10px;
+
+
+} */
+

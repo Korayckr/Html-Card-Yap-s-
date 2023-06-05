@@ -1,0 +1,41 @@
+h1{
+    color: white;
+}
+h2 {
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.planets-container {
+    display: flex;
+  }
+  
+  .planet {
+    flex: 1;
+    margin-right: 20px;
+    
+  }
+
+ 
+
+
+#info   {
+    
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    
+   
+}
+
+div.gezegen {
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+}
